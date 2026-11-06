@@ -1,0 +1,9 @@
+numpy==1.26.4
+opencv-python==4.11.0.86
+pupil-detectors==2.0.2
+pupil-labs-uvc==1.0.4
+pye3d==0.3.2
+Pillow==11.3.0
+sv-ttk==2.6.1
+msgpack==1.1.2
+sortedcontainers==2.4.0
